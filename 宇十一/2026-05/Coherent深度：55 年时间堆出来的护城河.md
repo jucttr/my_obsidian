@@ -12,22 +12,7 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMzaX6QiavqCWqkmQoPvcSaL4Zqri
 # Coherent深度：55 年时间堆出来的护城河
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMztB2jgK2SiaCnI7RJcp5L4ictdfGkarOg5rSILLYIPVDOcdEoKUcWREjicEpnEdgmIlSZKzJ0zRU7HTj7yqtXFJb2MZZaB4KvdVA/0?wx_fmt=jpeg)
-
-# Coherent深度：55 年时间堆出来的护城河
-
-原创
-大宇
-大宇
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/zdDXUkvvOMxUNyDtt4QBPoghopoZT3YMajxfbPlr4Z8QW9CXmKzd2jeVLxJYdoYvtsSXGqyxPSehN8LSfSXKtn8mib57bP7G4icRakhR2NZgw/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/zdDXUkvvOMyy4libQd3aAlV1NBicXxq5zN3V4ic2BzNVespicV42BcomWpPrKs1yyMHEjw5LyL6ycib7r47Oo8JORjrIRXHic7hPxkvib1P05RxO5k/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
 （A Philosopher Lecturing on the Orrery by Joseph Wright of Derby）
 
@@ -658,65 +643,3 @@ Coherent 在55年前，从一块晶体起步，一步步积累，成了全球完
 ---
 
 *免责声明：本文内容基于公开资料整理，仅供学习研究参考，不构成任何投资建议。投资有风险，决策需谨慎。*
-
-预览时标签不可点
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
