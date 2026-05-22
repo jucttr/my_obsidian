@@ -12,22 +12,7 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMxo36BB4IJTLZRtNZs7Yv2UAczwK
 # Circle三维拆解：是利息机器，还是金融操作系统？
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMwNNCe73mRxxgHCwuichtSeDiatvXaMBmnNuicBVpKe19r2Br9DlbjZibhX0YUAg3jnmIaQ9B5uKaWnIUuo5qz37rCaUgxocicrKl1k/0?wx_fmt=jpeg)
-
-# Circle三维拆解：是利息机器，还是金融操作系统？
-
-原创
-宇十一
-宇十一
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/zdDXUkvvOMwSOzZxzPfl3fLsx2YCufVHpAH8eLzrXqx3UJzjwWVTj53PpKpmKiasokNsKC8e6Qla1ia27syGkDrfqOCt9c7c9YSUibRROqBelY/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/zdDXUkvvOMw5B6oH4ouwNe2Mc0CcQkv61Nlw8XPliaCXNKMibHGKHTDJIJiaXOh3pzjZfSia9tkeBaBj25JiarwCQB51yqUpP7HY0oUIjoXaoG5o/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
 # *
 
@@ -439,66 +424,3 @@ CRCL 当前市值在 300 亿左右，差额是市场对 3-5 年前瞻成长的�
 ---
 
 *以上内容基于公开信息整理，仅供学习研究参考，不构成任何投资建议。投资有风险，决策需谨慎。*
-
-预览时标签不可点
-[阅读原文](javascript:;)
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
