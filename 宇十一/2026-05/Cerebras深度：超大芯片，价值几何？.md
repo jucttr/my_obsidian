@@ -12,22 +12,7 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMxR7U9ohqymQXtB877TvnQJdklYW
 # Cerebras深度：超大芯片，价值几何？
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMxT5T3ic5iaYDjpwYnic16R4EOztqpu9zU0XnwUzNXQ3MibcSCqBYlptRkv2oz4npnYWTvV6RqA5KgwBBD9V9epfGyoBib54S5XD2r0/0?wx_fmt=jpeg)
-
-# Cerebras深度：超大芯片，价值几何？
-
-原创
-大宇
-大宇
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/zdDXUkvvOMw92x30tMqM88KVkeX0qxFQe4XJC9dLhqd3Go5HuQSwRwpevFC5emfnzicUAlT32iamuDp9GryibCYwgzM2WNNPiaV9ba2R5eibibLLY/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_png/zdDXUkvvOMxzUvcTx9Uy0rNAbJjorEPnwmNib61TDaKSM3Fbia6NWUgxsN6POEpzhKAQ81Da7ZnsG6fePfoSP4rjoZibWnGUEzxkYhULa59WQs/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
 Cerebras CEO Andrew Feldman 演讲时手里常拿一块东西：一片晚餐盘那么大的"芯片"，面积是 NVIDIA H100 的 56 倍。
 
@@ -593,65 +578,3 @@ Cerebras 这次 IPO 是公开市场对"NVIDIA 之外有没有真正的 AI 推理
 [HBM全景研报：从训练到推理，主角不再是GPU](https://mp.weixin.qq.com/s?__biz=MzY4NzAzODM2NA==&mid=2247484036&idx=1&sn=7a794a5f88d6f14d4beaf42477ea6820&scene=21#wechat_redirect)
 
 本文仅供参考，不构成任何建议。
-
-预览时标签不可点
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
