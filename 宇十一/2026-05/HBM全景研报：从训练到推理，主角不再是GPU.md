@@ -12,22 +12,7 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMxPtzU7vubMPwRwqNt5sqQUO9vCd
 # HBM全景研报：从训练到推理，主角不再是GPU
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMxC833bTuh7s1cjsS9TorMLSKssOFYJ7FtzFvNzOycTVUbq6RsMnm2emNialqVGesjbtV71ZPQkcz7g5HmLVtZeSiazQI7KTFaCM/0?wx_fmt=jpeg)
-
-# HBM全景研报：从训练到推理，主角不再是GPU
-
-原创
-大宇
-大宇
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMyqK8XzENmJL9nhCKbwq73j91Nqddk2EdssmkeW4yKhiarEW0xr7loiceythbyW5rPDico6ia1KrRbKhq2ejmwRmMc6C9zMFOhrYEE/640?wx_fmt=jpeg&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMy0GWUvJkf6JGXQUzHlibCtQqRP5OKMxE2K5ibPH6XyRNzjdRFR9DVkRX5XHBMOQ3ArAWproYwChM9pyduEYTXuibCIl8m1iah2ER4/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
 《  *雨、蒸气与速度——大西部铁路（威廉·透纳 ）*  》
 
@@ -738,67 +723,3 @@ AI 推理的需求侧不是这种结构。更准确的类比是  **1880-1920 年
 ---
 
 *以上数据仅供参考，不构成任何投资建议。投资有风险，决策需谨慎。*
-
-预览时标签不可点
-[阅读原文](javascript:;)
-修改于
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
