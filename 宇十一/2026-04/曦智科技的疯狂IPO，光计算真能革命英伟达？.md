@@ -12,21 +12,6 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMwoHCy4HjqOiaP4R3Xia4hKWG4TQ
 # 曦智科技的疯狂IPO，光计算真能革命英伟达？
 
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMzw4sOYrkbkUyjTg6eLXB9nUgE2GSnMicPVwK8v93VbgZIy8tke3U24IjiaIwsDvGt8ZeG5gV979aaq21h9pskFh2dicQjqSicDEMg/0?wx_fmt=jpeg)
-
-# 曦智科技的疯狂IPO，光计算真能革命英伟达？
-
-原创
-大宇
-大宇
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
 > 人类是怎么想到用"光"来做计算的？如果成功，英伟达将被颠覆？曦智和Lightmatter 这些公司未来十年可能会怎么走。
 
 ## 一、先从一篇论文讲起
@@ -429,66 +414,3 @@ CPO（共封装光学）是英伟达、博通、台积电正在主推的方向�
 ---
 
 *以上数据仅供参考，不构成任何投资建议。投资有风险，决策需谨慎。*
-
-预览时标签不可点
-[阅读原文](javascript:;)
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
