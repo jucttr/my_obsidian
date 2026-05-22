@@ -12,21 +12,6 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMwQ3ibYwQHLNvrpt8Qq7GuV98ibe
 # 前谷歌TPU架构师：AI 的真瓶颈不是算力，是存储
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMxa8CGbLHBa9ceAClJ8Z6meFs0SVwEhy6sBLPtBrOc3sZFFdy5BSl8iaqEHM6icfD329hM4RtDeicgTofIOEThuic8X6rk1n25IZEA/0?wx_fmt=jpeg)
-
-# 前谷歌TPU架构师：AI 的真瓶颈不是算力，是存储
-
-原创
-大宇
-大宇
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
 > **播客**  ：Dwarkesh Podcast，"Reiner Pope – The math behind how LLMs are trained and served"  **嘉宾**  ：Reiner Pope，MatX CEO，前 Google TPU 架构师  **形式**  ：两小时黑板讲座，全程公式推导  **整理：**  大宇
 
 ## 引言
@@ -364,66 +349,3 @@ Reiner 这场两小时的讲座浓缩成投资视角的结论：
 ---
 
 *免责声明：本文为对一场公开播客的内容整理与解读，所提到的所有产业方向均为对原嘉宾观点的转述与延伸讨论，不构成任何投资建议。投资决策请基于个人独立研究。*
-
-预览时标签不可点
-[阅读原文](javascript:;)
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
