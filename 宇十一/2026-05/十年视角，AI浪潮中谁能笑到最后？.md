@@ -12,21 +12,6 @@ cover: "https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMylITNSrvz3KwcuIMElvWsCe4GKpiaA
 # 十年视角，AI浪潮中谁能笑到最后？
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMxvo57XM1lA25sX7qXcx4g7IPgic0amepuO3S03Rx7YLBciaoGgLTXMXRlExjp5Q9HnFhaEOgvarribz7WM0fsr5AnMPSmtiawrMicw/0?wx_fmt=jpeg)
-
-# 十年视角，AI浪潮中谁能笑到最后？
-
-原创
-宇十一
-宇十一
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
 1999 年，人们以为互联网时代会是思科、朗讯、北电这些公司赚最多钱，因为它们铺光纤、卖路由器、做交换机，互联网越大它们越值钱。
 
 **结果不是**  。
@@ -320,67 +305,3 @@ Astera Labs 做的是 PCIe Switch、CXL、Retimer 这类连接芯片，是当下
 ---
 
 *以上内容基于公开信息整理，仅供学习研究参考，不构成任何投资建议。投资有风险，决策需谨慎。*
-
-预览时标签不可点
-[阅读原文](javascript:;)
-修改于
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
