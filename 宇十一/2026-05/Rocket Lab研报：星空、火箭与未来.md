@@ -12,22 +12,7 @@ cover: "https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMzAz6fTp9VjiabOd34CPr7EuQoVU13k
 # Rocket Lab研报：星空、火箭与未来
 
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMxZVepoMupdoWb7OptGeeDAWia2L9Gia9QRmhp4vjBmQSKsP01FGVGAk3c67HvdzJjTJFMIBzD8etxuW76vZ5iar8EcDBfOkyyZNg/0?wx_fmt=jpeg)
-
-# Rocket Lab研报：星空、火箭与未来
-
-原创
-宇十一账号
-宇十一账号
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
-![](https://mmbiz.qpic.cn/mmbiz_png/zdDXUkvvOMweQlAH0RdLsvb6vOJutNs5FfBVCNVPlYPvYO4mFmicQzy8lhbg8o7vgkqfXIUbns8YQ6fv5zaX2ROtfiay0ulicTPLOFibKvDibOfI/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_png/zdDXUkvvOMy3cGxsI6HA0oOmb0wmzWaia7LC06nK3VUWFBS6V5dG2VNL7StnibODc5UrQwz3GicTjpPZAeoHsrHlFJju6fqmTxeLdCMZF7puib0/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
 （罗纳河上的星夜/梵高)
 
@@ -738,65 +723,3 @@ Rocket Lab 不是"故事不够大"的问题，是"故事太大"的问题，市�
 ---
 
 *本文为个人学习研究笔记，本人不持有任何标的，不构成任何建议。*
-
-预览时标签不可点
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
