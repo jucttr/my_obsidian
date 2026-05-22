@@ -12,21 +12,6 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMzPQ5piaXk3qdmpfo2ibYbZLzGSG
 # 深度：为何马斯克与Anthropic化敌为友，签下天价合约？
 
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMxSvtyOd5hvTlqB4LahVadTYnicPqflnncM3uZbLEuzVcibfkGmL11kbombwqsfVPYadiaf2ODhakRrvACY65jWZOtpaw02MP47Uk/0?wx_fmt=jpeg)
-
-# 深度：为何马斯克与Anthropic化敌为友，签下天价合约？
-
-原创
-大宇
-大宇
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
 2月，马斯克在 X 上骂一家叫 Anthropic 的公司"反西方文明"，并质问"还有比 Anthropic 更虚伪的公司吗"。在那之前，他还在另一些场合用过"邪恶"、"恨人类"这些词形容这家公司，并指责对方"大规模剽窃数据"训练模型。
 
 5月，马斯克和Anthropic达成商业合作，马斯克把他自己旗下数据中心里的 22 万张 GPU、价值上百亿美元的算力，全部租给了Anthropic，媒体报道它正在谈一轮新融资，潜在估值 8500–9000 亿美元。而有意思是，Anthropic的产品Claude是ChatGPT 最大的对手。
@@ -246,65 +231,3 @@ Colossus 1 的故事告诉所有玩家，常规等待并网的路径已经太慢
 ---
 
 *免责声明：本文内容基于公开资料整理，仅供学习研究参考，不构成任何投资建议。投资有风险，决策需谨慎。*
-
-预览时标签不可点
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
