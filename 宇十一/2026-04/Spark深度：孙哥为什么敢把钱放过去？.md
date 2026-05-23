@@ -12,20 +12,6 @@ cover: "https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMzyHyQlxTYhhUB9QrYAWv5lejGhXx4N
 # Spark深度：孙哥为什么敢把钱放过去？
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMz1F5UUreP6U8tMIpMpPsV6icaNzQGFyCBuwwlwblibA1IDZugd4vfHqwdfVEr6ibZe55OC4A9a4Sdr5FxhnM5a6knUVV6tyM9Kl0/0?wx_fmt=jpeg)
-
-# Spark深度：孙哥为什么敢把钱放过去？
-
-宇十一
-宇十一
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
 ## 写在前面
 
 2026 年 4 月 18 日，Kelp DAO 的跨链桥出现漏洞，攻击者凭空铸造 11.65 万枚无背书的 rsETH，把它们当成抵押品在 Aave 借走近 2 亿美元的 wETH——DeFi 历史上最大规模的坏账危机就这样爆发了。三天半时间，Aave 流出 151 亿美元资金。一部分被转成 USDC 躺进冷钱包，一部分偿还了贷款；而剩下继续留在借贷赛道里的资金，有一个非常集中的去向——Spark。SparkLend 的 TVL 从 19 亿美元涨到了 32 亿美元，孙宇晨把从 Aave 撤出的 1.74 亿美元几乎全数存进了 Spark。
@@ -543,65 +529,3 @@ Kelp 事件给市场讲了一个特别顺的故事——「Spark 是新的 Aave�
 > 更多内容，访问 dayu.xyz
 
 *免责声明：本研报为个人研究记录，所有数据基于公开信息，不构成任何投资建议。*
-
-预览时标签不可点
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
