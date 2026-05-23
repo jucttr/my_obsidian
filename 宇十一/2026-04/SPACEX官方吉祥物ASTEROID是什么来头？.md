@@ -5,28 +5,14 @@ tags:
   - 宇十一
 source: "宇十一"
 url: https://mp.weixin.qq.com/s/6v3hxQDRzWFwUOa55Vl12w
-description: "SPACEX官方吉祥物ASTEROID是什么来头？                        宇十一                      宇十一                        宇十一                                                 在小说阅读器读本章                          去阅读         ..."
+description: "一、起点(2022 年 1 月)            2022 年 1 月,一个 11 岁的美国小女孩 Liv Perrotto 收到了一份特别的邀请——为 SpaceX 的 Polaris Dawn 任务设计零重力指示器(zero-gravity indicator)。          零重力指示器是太空船里用来让航天员和地面观众直观看到\"进入失重状态\"的那一刻的吉祥物——就是你在 Spac..."
 cover: "https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMzjVibwaXNzgY2x3EQvUAwvXV9I7bLEicmUcsG8gXlC46aSgELQyC5Qqiadt4ibt1LNRqZLqy2wAKmp2LGWYD19zveObgaYmtBcXjQ/0?wx_fmt=jpeg"
 ---
 
 # SPACEX官方吉祥物ASTEROID是什么来头？
 
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMzZibyUmmDSWx2tIa8h59X2o406QpEbB7KL6bULgg5FbJKricXoGbKO5gu3OwRfEWzw3jS2acCrG2mCUZJrtq6ibR9yoTDYKUGI6Q/0?wx_fmt=jpeg)
-
-# SPACEX官方吉祥物ASTEROID是什么来头？
-
-宇十一
-宇十一
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
-![](https://mmbiz.qpic.cn/mmbiz_png/zdDXUkvvOMxicpJiaCqibwW6pczjM7et8oQlfUzrDjyN3dNHA5JTXjCldg6pusBIt6YFHZvMa76CzIkickwToFQB11SXfnTR22YKibKl750psJyk/640?wx_fmt=png&from=appmsg)
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/zdDXUkvvOMy4dVgG1x9qrcRUc4SQWNA5ViaXPIjggF42LfwosicDP5DLicOMOS3Z3Mc0FEHzYxSvgJuseKmhGv7wKhB51Y0zzntJCROyMx6T8U/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
 **一、起点(2022 年 1 月)**
 
@@ -64,7 +50,7 @@ Liv 在太空任务后近一年半,于 2026 年 1 月去世,和癌症斗争了 5
 
 Liv 留下了写给 Musk 的 8 个问题清单,让妈妈 Rebecca Perrotto 替她传达。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMyZJAWmxwL4o2pjZ7TcZZLvMn6wvK0ydhBYBOqzibA2o9gicicyAMs6g5qibPOgCKNC29qkDE07GoFL6IcLsZicUrwTtbrealjr8Q4I/640?wx_fmt=jpeg&from=appmsg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/zdDXUkvvOMxI7rsPnJ204MWDHkJ2ak9c82KCVCDsc2Vdthlz2RARrnLazSw0axhSVCpM0gemib4FKj48VxasUQfqmQ3DcLJVTEsiaTy06vfR8/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
 
 最后一个问题是:
 
@@ -143,66 +129,3 @@ IPO 这件事需要动人的品牌故事。Liv + Asteroid + Musk 的故事,是 S
 > 关注我，在别人看热闹的地方，看到机会。 更多内容，访问 dayu.xyz
 
 *以上数据仅供参考，不构成任何投资建议。投资有风险，决策需谨慎。*
-
-预览时标签不可点
-[阅读原文](javascript:;)
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
