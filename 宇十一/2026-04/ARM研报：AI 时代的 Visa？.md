@@ -12,21 +12,6 @@ cover: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMwh27K2icz3pbTFeoPPuN2XTREyF
 # ARM研报：AI 时代的 Visa？
 
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/zdDXUkvvOMwBODn9e1Rc5dOeLGCs6yNVogyQT4rPbRSAoyOptmxQA7ooxxcF6QUs039cgco3eeB79RRcArzNUlRnaowPpycWZV05ticUsRoQ/0?wx_fmt=jpeg)
-
-# ARM研报：AI 时代的 Visa？
-
-原创
-宇十一
-宇十一
-[宇十一](javascript:void(0);)
-
-![]()
-在小说阅读器读本章
-去阅读
-![]()
-在小说阅读器中沉浸阅读
-
 *这是我《AI投资地图》第6篇文章，今天同步还放出了英特尔、AMD 二篇同赛道热门公司的研报，方便大家一起阅读。*
 
 ## ARM 是一家什么公司？
@@ -491,66 +476,3 @@ ARM 如果就是 AI 时代的 Visa。那它不会给你一年 3 倍的快感—�
 ---
 
 *以上数据仅供参考，不构成任何投资建议。投资有风险，决策需谨慎。*
-
-预览时标签不可点
-[阅读原文](javascript:;)
-![]()
-
-微信扫一扫   
- 关注该公众号
-
-继续滑动看下一个
-轻触阅读原文
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-宇十一
-向上滑动看下一个
-
-[知道了](javascript:;)
-
-![]()
-微信扫一扫
-  
-使用小程序
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-[取消](javascript:void(0);)
-[允许](javascript:void(0);)
-
-×
-
-分析
-
-![]()
-![](http://mmbiz.qpic.cn/mmbiz_png/icStPKapgDYFSfXyGNWrpqRsHP7ZqtLyj4FjVhebbicuRFLINkg2x0foIqT3or6xLG5YLvQ8tUTgpa0UZ8FgI5DQ/0?wx_fmt=png)
-
-微信扫一扫可打开此内容，   
- 使用完整服务
-
-：
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-，
-。
-视频
-小程序
-赞
-，轻点两下取消赞
-在看
-，轻点两下取消在看
-分享
-留言
-收藏
-听过
